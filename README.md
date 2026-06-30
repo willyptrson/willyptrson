@@ -1,5 +1,3 @@
-# 👋 [willyptrson]
-
 > Estudando o "por baixo do capô": **Assembly**, **Sistemas Operacionais** e **Engenharia Reversa**.
 
 ### 🛠️ Stack
