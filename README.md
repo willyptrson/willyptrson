@@ -1,4 +1,4 @@
-> Estudando o "por baixo do capô": **Assembly**, **Sistemas Operacionais** e **Engenharia Reversa**.
+> Estudando: **Assembly**, **Sistemas Operacionais** e **Engenharia Reversa**.
 
 ### 🛠️ Stack
 <p align="left">
